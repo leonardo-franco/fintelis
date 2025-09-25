@@ -1,9 +1,0 @@
-# Dependências
-/vendor
-
-# Variáveis de ambiente
-.env
-
-# Arquivos de configuração local e temporários
-fiveserver.config.js
-phpinfo.php
